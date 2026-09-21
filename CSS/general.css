@@ -1,4 +1,8 @@
 
+nav{
+    display: flex;
+}
+
 .grid-1-1-1-1{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -11,4 +15,14 @@ img{
     border-radius: 1em;
     height: 20rem;
     width: 20rem;
+}
+
+#igen{
+    background-color: orange;
+    border-radius: 1em;
+    padding: 1rem;
+}
+
+#besked{
+border: 1px solid black;
 }
