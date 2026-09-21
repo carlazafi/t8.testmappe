@@ -1,0 +1,14 @@
+
+.grid-1-1-1-1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+img{
+    border: 1mm solid black;
+    max-width: 100%;
+    border-radius: 1em;
+    height: 20rem;
+    width: 20rem;
+}
